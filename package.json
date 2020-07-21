@@ -8,6 +8,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@types/jest": "^26.0.5",
+    "@types/node": "^14.0.23",
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
@@ -17,8 +19,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.8.6",
+    "@types/jsdom": "^16.2.3",
     "@types/react": "~16.9.41",
-    "@types/react-native": "~0.62.13",
+    "@types/react-native": "^0.63.1",
     "typescript": "~3.9.5"
   },
   "private": true
